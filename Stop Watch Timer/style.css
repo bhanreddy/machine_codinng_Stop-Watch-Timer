@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green{
+    color: green;
+}
+
+.yellow{
+    color: yellow;
+    -webkit-text-stroke: 0.2px red;
+}
+
+.red{
+    color: red;
+}
